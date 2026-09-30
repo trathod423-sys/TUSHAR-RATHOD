@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix FeedbackIQ - Feedback Intelligence Platform",
+  "description": "Turn student and stakeholder feedback into intelligent action with AI sentiment analysis, trend discovery, complaint detection, and actionable improvement workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
